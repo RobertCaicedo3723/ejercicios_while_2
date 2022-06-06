@@ -1,0 +1,1 @@
+# En 1980 la ciudad tenia 3.5 millones de habitantes y una rata de crecimiento del 7% anual; y la ciudad b tenía 5 millones y una rata de crecimiento del 5% anual; si el crecimiento poblacional se mantine constante en las dos ciudades, hacer el diagrama de flujo del programa en python que calcule e imprima en que año la poblacion de la ciudad A es mayor que la ciudad B
